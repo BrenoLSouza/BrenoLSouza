@@ -18,4 +18,24 @@ Sou estudante de Engenharia de Software, interessado em compreender não apenas 
 Atualmente, estou desenvolvendo meus conhecimentos em programação, bancos de dados, desenvolvimento backend, redes e segurança da informação, aplicando esses conceitos em projetos acadêmicos e pessoais.
 
 Meu objetivo é iniciar minha carreira profissional por meio de um estágio em tecnologia, evoluir profissionalmente no setor financeiro e, no longo prazo, me especializar em Cybersecurity, buscando oportunidades internacionais.
+
+</div>
+
+
+<h2 align="center"> Stack & Tecnologias </h2>
+
+<div align="center">
+
+Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+
+Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
 </div>
